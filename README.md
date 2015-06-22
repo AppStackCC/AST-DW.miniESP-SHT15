@@ -4,6 +4,8 @@ Read temperature , humidity using SHT15 and ESP8266.
 
 All data can display on another device with Qt and UDP.
 
+Thank Graph from [QCustomPlot](http://qcustomplot.com)
+
 [Facebook AppStack](http://www.facebook.com/appstack.cc)
 
 
